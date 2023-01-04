@@ -19,3 +19,16 @@ I effectively use and develop my skills in order to make a valuable contribution
 - Markdown
 - Git
 - VSCode
+
+### Code Example:
+
+```HTML
+<div class="relative-position">Задание</p>
+<style>
+  .relative-position {
+    position: relative;
+    top: 10px;
+    right: 5px;
+  }
+</style>
+```
