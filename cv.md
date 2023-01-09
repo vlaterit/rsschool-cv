@@ -43,3 +43,22 @@ I effectively use and develop my skills in order to make a valuable contribution
   branch manager
 - #### 2022-Now - EPAM UpSkill Me
   frontend trainee
+
+### Education:
+
+- #### Military Academy
+  engineer
+- #### EPAM UpSkill Me:
+  - ##### HTML
+    - [Responsive Web Design (HTML part)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+    - [Learn HTML](https://www.codecademy.com/learn/learn-html)
+    - [HTML: Perfect for Beginners](https://code-basics.com/languages/html)
+  - ##### Git
+    - [Learn Git Branching](https://learngitbranching.js.org/)
+  - ##### CSS
+    - [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
+    - [Responsive Web Design (CSS part)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+    - [CSS: Free Online Learning for Beginners](https://code-basics.com/languages/css)
+  - ##### Markdown
+    - [Markdown Guide](https://www.markdownguide.org/)
+    - [Basic formatting syntax]([https://www.markdownguide.org/](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
