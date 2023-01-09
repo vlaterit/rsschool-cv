@@ -62,3 +62,6 @@ I effectively use and develop my skills in order to make a valuable contribution
   - ##### Markdown
     - [Markdown Guide](https://www.markdownguide.org/)
     - [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+### English:
+B1
