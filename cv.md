@@ -61,4 +61,4 @@ I effectively use and develop my skills in order to make a valuable contribution
     - [CSS: Free Online Learning for Beginners](https://code-basics.com/languages/css)
   - ##### Markdown
     - [Markdown Guide](https://www.markdownguide.org/)
-    - [Basic formatting syntax]([https://www.markdownguide.org/](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+    - [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
