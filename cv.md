@@ -22,7 +22,7 @@ I effectively use and develop my skills in order to make a valuable contribution
 
 ### Code Example:
 
-```HTML
+```html
 <div class="relative-position">Задание</p>
 <style>
   .relative-position {
@@ -32,3 +32,14 @@ I effectively use and develop my skills in order to make a valuable contribution
   }
 </style>
 ```
+
+### Experience:
+
+- #### 1997-2004 - Army
+  officer
+- #### 2004-2019 - Belpromimpex, PremiaMaster, Alutech
+  purchasing manager
+- #### 2019-2022 - Syndic-Bel
+  branch manager
+- #### 2022-Now - EPAM UpSkill Me
+  frontend trainee
