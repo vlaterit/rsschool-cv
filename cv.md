@@ -1,18 +1,18 @@
-# Uladzimir Tsiareshchanka
+# Uladzimir Tsiareshchanka 👋
 
-frontend developer
+frontend developer 💻
 
 
-## Contact Info:
+## 📧 Contact Info:
 
 - E-mail: <vlaterit@gmail.com>
 - Phone: +998 90 091-25-10
 
-## About Me:
+## 🧔 About Me:
 
 I effectively use and develop my skills in order to make a valuable contribution to my family, employer and society, to increase my financial well-being and to enjoy performing interesting tasks. I am sure that the combination of my favorite occupation and my high work capacity and performance, plus my personal ambitions create a high potential of fast learning and maximum return and profit for the employer.
 
-### Skills:
+### 💪 Skills:
 
 - HTML
 - CSS
@@ -20,7 +20,7 @@ I effectively use and develop my skills in order to make a valuable contribution
 - Git
 - VSCode
 
-### Code Example:
+### 👨‍💻 Code Example:
 
 ```html
 <div class="relative-position">Задание</p>
@@ -33,7 +33,7 @@ I effectively use and develop my skills in order to make a valuable contribution
 </style>
 ```
 
-### Experience:
+### 🛠 Experience:
 
 - #### 1997-2004 - Army
   officer
@@ -44,7 +44,7 @@ I effectively use and develop my skills in order to make a valuable contribution
 - #### 2022-Now - EPAM UpSkill Me
   frontend trainee
 
-### Education:
+### 👨‍🎓 Education:
 
 - #### Military Academy
   engineer
@@ -63,5 +63,5 @@ I effectively use and develop my skills in order to make a valuable contribution
     - [Markdown Guide](https://www.markdownguide.org/)
     - [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### English:
+### 🌐 English:
 B1
