@@ -23,7 +23,7 @@ I effectively use and develop my skills in order to make a valuable contribution
 ### 👨‍💻 Code Example:
 
 ```html
-<div class="relative-position">Задание</p>
+<p class="relative-position">Задание</p>
 <style>
   .relative-position {
     position: relative;
