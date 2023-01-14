@@ -1,0 +1,58 @@
+html {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+pre {
+    background-color: #f6f8fa;
+    padding: 20px;
+    border-radius: 20px;
+    overflow-x: auto;
+}
+
+code {
+    font-family: 'Noto Sans Mono', monospace;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+code .html-tag {
+    color: blue;
+}
+
+code .html-attribute {
+    color: lightskyblue;
+}
+
+code .html-attribute-value {
+    color: red;
+}
+
+code .css-selector {
+    color: blue;
+    font-weight: 600;
+}
+
+code .css-property {
+    color: brown;
+    font-weight: 600;
+}
+
+code .css-value {
+    color: lightskyblue;
+}
+
+footer>* {
+    display: block;
+    width: fit-content;
+    margin: 10px auto;
+}
+
+.course-logo {
+    width: 100px;
+}
