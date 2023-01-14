@@ -1,6 +1,6 @@
 html {
     font-family: 'Noto Sans', sans-serif;
-} 
+}
 
 body {
     max-width: 600px;
@@ -45,4 +45,14 @@ code .css-property {
 
 code .css-value {
     color: lightskyblue;
+}
+
+footer>* {
+    display: block;
+    width: fit-content;
+    margin: 10px auto;
+}
+
+.course-logo {
+    width: 100px;
 }
