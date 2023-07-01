@@ -1,22 +1,31 @@
-# **Tsiareshchanka Uladzimir**
+# Uladzimir Tsiareshchanka
 
+![Tsiareshchanka_Uladzimir](https://github.com/vlaterit/rsschool-cv/assets/119511679/93c1b7d1-b764-4d1f-8387-499cb5a6ddeb)
 
-## ***Contacts:***
-### Linkedin: *linkedin.com/in/vladimir-tereschenko-302bb2278*
-### E-mail: *vlaterit@gmail.com*
-### Phone: *+998-90-0912510*
+---
 
-## ***About me:***
-### My goal in life is constant movement. I have many talents in me and the world is infinitely beautiful. And I try to know myself and the world around me to do more good, to be more helpful to people. My main strength is positivity. Every person is a priceless treasure and every circumstance in life is an opportunity to become a better person. Under his belt, he served in the army as an officer and has many years of experience in the field of supply and sales. I consider the most interesting case to be the development of a branch for the sale of industrial equipment from scratch. Due to the circumstances, I had to move to another country and I took it as an opportunity to learn new things.  As a result, I became an RS School student in front-end development.
+## *Contacts*
+- Linkedin: *linkedin.com/in/vladimir-tereschenko-302bb2278*
+- E-mail: *vlaterit@gmail.com*
+- Phone: *+998-90-0912510*
 
-## ***Skills:***
-### HTML
-### Markdown
-### CSS
-### JS
+---
 
-## ***Code Examples:***
-```
+## *About me*
+My goal in life is constant movement. I have many talents in me and the world is infinitely beautiful. And I try to know myself and the world around me to do more good, to be more helpful to people. My main strength is positivity. Every person is a priceless treasure and every circumstance in life is an opportunity to become a better person. Under his belt, he served in the army as an officer and has many years of experience in the field of supply and sales. I consider the most interesting case to be the development of a branch for the sale of industrial equipment from scratch. Due to the circumstances, I had to move to another country and I took it as an opportunity to learn new things.  As a result, I became an RS School student in front-end development.
+
+---
+
+## *Skills:*
+- HTML
+- Markdown
+- CSS
+- JS
+
+---
+
+## *Code Examples*
+```javascript
 function mygcd(x, y) {
   let dividend = x > y ? x : y;
   let divisor = x < y ? x : y;
@@ -31,15 +40,21 @@ function mygcd(x, y) {
 }
 ```
 
-## ***Work experience:***
-### *1997 - 2004*  -  serving in the army as an officer,
-### *2004 - 2019*  -  worked as a procurer in various companies,
-### *2019 - 2022*  -  sales manager (branch development from scratch) of Sindik Bel LLC,
-### *2022 - up to the present time*  - an engineer at Teleset Alfa,
-### *June 26, 2023 - up to the present time*  -  RS School student.
+---
 
-## ***Education:***
-### *1993-1997*  -  Military Academy Republic of Belarus,
-### *June 26, 2023 - up to the present time*  -  RS School
+## *Work experience:*
+- *1997 - 2004*  -  serving in the army as an officer,
+- *2004 - 2019*  -  worked as a procurer in various companies,
+- *2019 - 2022*  -  sales manager (branch development from scratch) of Sindik Bel LLC,
+- *2022 - up to the present time*  - an engineer at Teleset Alfa,
+- *June 26, 2023 - up to the present time*  -  RS School student.
 
-## ***English - A2***.
+---
+
+## *Education*
+- *1993-1997*  -  Military Academy Republic of Belarus,
+- *June 26, 2023 - up to the present time*  -  RS School
+
+---
+
+## *English - A2*
