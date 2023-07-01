@@ -15,6 +15,7 @@
 
 ## Skills:
 ### HTML
+### Markdown
 ### CSS
 ### JS
 ### English A2
