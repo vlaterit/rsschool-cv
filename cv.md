@@ -36,3 +36,11 @@ function mygcd(x, y) {
   return divisor;
 }
 ```
+
+
+## Work experience:
+### 1997 - 2004  -  serving in the army as an officer,
+### 2004 - 2019  -  worked as a procurer in various companies,
+### 2019 - 2022  -  sales manager (branch development from scratch) of Sindik Bel LLC,
+### 2022 - up to the present time  - an engineer at Teleset Alfa,
+### June 26, 2023 - up to the present time  -  RS School student.
