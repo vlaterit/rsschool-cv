@@ -4,7 +4,7 @@
 
 ---
 
-## :e-mail: *Contacts*
+## *Contacts*
 - E-mail: *vlaterit@gmail.com*
 - Discord: *.vlater*
 - Linkedin: *linkedin.com/in/vladimir-tereschenko-302bb2278*
@@ -12,12 +12,12 @@
 
 ---
 
-## :information_desk_person: *About me*
+## *About me*
 My goal in life is constant movement. I have many talents in me and the world is infinitely beautiful. And I try to know myself and the world around me to do more good, to be more helpful to people. My main strength is positivity. Every person is a priceless treasure and every circumstance in life is an opportunity to become a better person. Under his belt, he served in the army as an officer and has many years of experience in the field of supply and sales. I consider the most interesting case to be the development of a branch for the sale of industrial equipment from scratch. Due to the circumstances, I had to move to another country and I took it as an opportunity to learn new things.  As a result, I became an RS School student in front-end development.
 
 ---
 
-## :muscle: *Skills*
+## *Skills*
 - HTML
 - Markdown
 - CSS
@@ -25,7 +25,7 @@ My goal in life is constant movement. I have many talents in me and the world is
 
 ---
 
-## :man_technologist: *Code Examples*
+## *Code Examples*
 ```javascript
 function mygcd(x, y) {
   let dividend = x > y ? x : y;
@@ -43,7 +43,7 @@ function mygcd(x, y) {
 
 ---
 
-## :mechanic: *Work experience:*
+## *Work experience:*
 - *1997 - 2004*  -  serving in the army as an officer,
 - *2004 - 2019*  -  worked as a procurer in various companies,
 - *2019 - 2022*  -  sales manager (branch development from scratch) of Sindik Bel LLC,
@@ -52,10 +52,10 @@ function mygcd(x, y) {
 
 ---
 
-## :mortar_board: *Education*
+## *Education*
 - *1993-1997*  -  Military Academy Republic of Belarus,
 - *June 26, 2023 - up to the present time*  -  RS School
 
 ---
 
-## :stuck_out_tongue_winking_eye: *English - A2*
+## *English - A2*
