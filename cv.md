@@ -44,3 +44,8 @@ function mygcd(x, y) {
 ### 2019 - 2022  -  sales manager (branch development from scratch) of Sindik Bel LLC,
 ### 2022 - up to the present time  - an engineer at Teleset Alfa,
 ### June 26, 2023 - up to the present time  -  RS School student.
+
+
+## Education:
+### 1993-1997 Military Academy Republic of Belarus,
+### June 26, 2023 - up to the present time  -  RS School
