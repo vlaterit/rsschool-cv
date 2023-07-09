@@ -11,8 +11,19 @@ body {
   max-width: 800px;
   margin: 20px auto;
   border: 1px solid #ccc;
+  padding: 30px 20px;
 }
 
 .avatar {
   width: 300px;
+}
+
+.course-logo {
+  width: 100px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
