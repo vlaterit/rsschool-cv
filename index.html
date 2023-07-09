@@ -48,6 +48,21 @@
 				<li>JS</li>
 			</ul>
 		</section>
+		<section id="code">
+			<h2>👨‍💻 Code Examole</h2>
+			<pre><code>function mygcd(x, y) {
+	let dividend = x > y ? x : y;
+	let divisor = x < y ? x : y;
+
+	while(dividend % divisor !== 0) {
+		const reminder = dividend % divisor;
+		dividend = divisor;
+		divisor = reminder;
+	}
+
+	return divisor;
+}</code></pre>
+		</section>
 	</main>
 	<footer>
 		<div class="container"></div>
